@@ -13,6 +13,7 @@ var hierarchy =
     [ "es.deusto.spq.pojo.UserData", "classes_1_1deusto_1_1spq_1_1pojo_1_1_user_data.html", null ],
     [ "JFrame", null, [
       [ "es.deusto.spq.client.AdminClient", "classes_1_1deusto_1_1spq_1_1client_1_1_admin_client.html", null ],
+      [ "es.deusto.spq.client.DecanClient", "classes_1_1deusto_1_1spq_1_1client_1_1_decan_client.html", null ],
       [ "es.deusto.spq.client.ProffessorClient", "classes_1_1deusto_1_1spq_1_1client_1_1_proffessor_client.html", null ],
       [ "es.deusto.spq.client.StudentClient", "classes_1_1deusto_1_1spq_1_1client_1_1_student_client.html", null ]
     ] ]

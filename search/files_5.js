@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['proffessorclient_2ejava_98',['ProffessorClient.java',['../_proffessor_client_8java.html',1,'']]]
+  ['main_2ejava_101',['Main.java',['../_main_8java.html',1,'']]]
 ];

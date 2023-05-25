@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['excludefromjacocogeneratedreport_2ejava_95',['ExcludeFromJacocoGeneratedReport.java',['../_exclude_from_jacoco_generated_report_8java.html',1,'']]]
+  ['decanclient_2ejava_98',['DecanClient.java',['../_decan_client_8java.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['loginclient_2ejava_96',['LoginClient.java',['../_login_client_8java.html',1,'']]]
+  ['excludefromjacocogeneratedreport_2ejava_99',['ExcludeFromJacocoGeneratedReport.java',['../_exclude_from_jacoco_generated_report_8java.html',1,'']]]
 ];

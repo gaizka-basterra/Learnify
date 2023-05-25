@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['resource_2ejava_99',['Resource.java',['../_resource_8java.html',1,'']]],
-  ['role_2ejava_100',['Role.java',['../_role_8java.html',1,'']]]
+  ['proffessorclient_2ejava_102',['ProffessorClient.java',['../_proffessor_client_8java.html',1,'']]]
 ];

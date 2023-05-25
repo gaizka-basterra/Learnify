@@ -3,6 +3,9 @@ var dir_64fc1181e9503f5ed1baff3a3bd9f792 =
     [ "ExcludeFromJacocoGeneratedReport.java", "_exclude_from_jacoco_generated_report_8java.html", [
       [ "ExcludeFromJacocoGeneratedReport", "interfacees_1_1deusto_1_1spq_1_1pojo_1_1_exclude_from_jacoco_generated_report.html", null ]
     ] ],
+    [ "Faculty.java", "_faculty_8java.html", [
+      [ "Faculty", "enumes_1_1deusto_1_1spq_1_1pojo_1_1_faculty.html", "enumes_1_1deusto_1_1spq_1_1pojo_1_1_faculty" ]
+    ] ],
     [ "Role.java", "_role_8java.html", [
       [ "Role", "enumes_1_1deusto_1_1spq_1_1pojo_1_1_role.html", "enumes_1_1deusto_1_1spq_1_1pojo_1_1_role" ]
     ] ],

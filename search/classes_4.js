@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['main_82',['Main',['../classes_1_1deusto_1_1spq_1_1server_1_1_main.html',1,'es::deusto::spq::server']]]
+  ['faculty_90',['Faculty',['../enumes_1_1deusto_1_1spq_1_1pojo_1_1_faculty.html',1,'es::deusto::spq::pojo']]]
 ];

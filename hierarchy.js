@@ -2,6 +2,7 @@ var hierarchy =
 [
     [ "es.deusto.spq.client.Client", "classes_1_1deusto_1_1spq_1_1client_1_1_client.html", null ],
     [ "es.deusto.spq.pojo.ExcludeFromJacocoGeneratedReport", "interfacees_1_1deusto_1_1spq_1_1pojo_1_1_exclude_from_jacoco_generated_report.html", null ],
+    [ "es.deusto.spq.pojo.Faculty", "enumes_1_1deusto_1_1spq_1_1pojo_1_1_faculty.html", null ],
     [ "es.deusto.spq.server.Main", "classes_1_1deusto_1_1spq_1_1server_1_1_main.html", null ],
     [ "es.deusto.spq.server.Resource", "classes_1_1deusto_1_1spq_1_1server_1_1_resource.html", null ],
     [ "es.deusto.spq.pojo.Role", "enumes_1_1deusto_1_1spq_1_1pojo_1_1_role.html", null ],
